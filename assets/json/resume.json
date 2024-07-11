@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ishan Ranjan",
+    "label": "Data Scientist, AI Researcher, Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "iranjan@bu.edu",
+    "phone": "(925)-719-7349",
+    "url": "https://iranjan31.github.io",
+    "summary": "Data professional with experience in custom-tailored computational analysis solutions and providing in-depth analysis of relevant data.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -17,14 +17,32 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "iranjan31",
+        "url": "https://twitter.com/iranjan31"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": "Faculty of Computing and Data Sciences, Boston University",
+      "position": "Graduate Researcher",
+      "url": "https://www.bu.edu/cds-faculty/",
+      "startDate": "2024-05-01",
+      "endDate": "Present",
+      "summary": "Thesis research under Dr. Thomas Gardos. Researching LLM use cases for academic curriculum advising and academic tutoring.",
+      "highlights": [""]
+    },
+    {
+      "name": "ROSALIND",
+      "position": "Data Engineer",
+      "url": "https://rosalind.bio",
+      "startDate": "2022-01-02",
+      "endDate": "2023-07-14",
+      "summary": "As a Data Engineer working with the Data Science and Platform Engineering teams, I was responsible for the development of backend workflows. I worked on all levels of the tech stack, from frontend development to pipeline implementation. I also interfaced and consulted with key industry partners to help bring their technologies to the platform.",
+      "highlights": ["Enhanced data processing by developing of backend pipelines using Python and R. Improved workflow efficiency and reliability via introduction of Apache Airflow automation.", "Delivered high-performance APIs and novel visualization tools for industry partners using Django, Angular, and Flask", "Administered and maintained Google Cloud infrastructure, Cloud SQL, and POSTGRES databases to ensure optimal availability, security, and performance.", "Improved productivity and agility by playing a key role in refining Test/QA methodologies and optimizing development team's overall scrum process in conjunction with stakeholders."]
+    },
+    {
+      "name": "Biosplice Therapeutics",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
       "startDate": "1933-01-01",
