@@ -44,10 +44,10 @@
       "name": "Biosplice Therapeutics",
       "position": "Research Associate, Informatics",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2021-03-15",
+      "endDate": "2022-01-02",
+      "summary": "As a Research Associate working as a part of Biosplice’s Informatics group, I implemented and functionalized analysis pipelines for bulk data analysis. I helped to administer and optimize our informatics resources as Biosplice’s Linux Server Admin. I also played a key role in Biosplice’s laboratory information storage and technology by administrating our Dotmatics LIMS system.",
+      "highlights": ["Enhanced research infrastructure by implementing pipelines for bulk data analysis and identification of novel alternative splicing events using Python, R, and bash.", "Streamlined data intake, backup to AWS S3 Storage, and sample quality control by developing an efficient next-generation sequencing (NGS) data stewardship system.", "Revitalized Dotmatics LIMS, delivered scalability and reliability enhancements boosting system efficiency and easing user roadblocks and human error.", "Led transition of LIMS frontend and backend to AWS EC2, ensuring smoother, more scalable cloud-based operations and hosting. Guaranteed optimal performance and reliability of critical in-house Oracle databases on Linux servers and virtual machines through administration and maintenance."]
     }
   ],
   "volunteer": [
