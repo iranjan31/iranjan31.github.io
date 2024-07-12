@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Detecting Racial Bias in the News
 description: with background image
 img: assets/img/12.jpg
 importance: 1
