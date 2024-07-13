@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - iranjan31
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - DL4DS/ai_curriculum_assistant
+  - DL4DS/dl4ds_tutor
+  - iranjan31/iGEM_UC_San_Diego_2020
+  - jack-campbeli/VizWiz-VQA-ds598
+  - BU-Spark/ds-schilde-dod-contracts
+  - iranjan31/VizWiz_Image_Captioning
+  - iranjan31/Gauging-GenAI
