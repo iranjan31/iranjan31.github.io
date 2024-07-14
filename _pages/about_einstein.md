@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there, I'm Ishan! I am a data professional in the process of wrapping up my Master's in Data Science at Boston University. I have experience in engineering custom-tailored computational analysis solutions and providing in-depth analysis of relevant data, accross a variety of industries. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I believe data is a powerful tool, and my end goal is to make data more accessible, insightful, and useful to help solve real-world problems, ease bottlenecks, and push discoveries and research. My interests include Machine Learning, User Behavior, Business Intelligence, Data Visualization, Cryptography, and Bioinformatics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time I enjoy composing music, traveling, cooking, and playing video games (see [misc](https://iranjan31.github.io/misc) for more)!
