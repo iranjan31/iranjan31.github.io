@@ -72,6 +72,19 @@
       "score": "GPA: 3.1/4.0"
     }
   ],
+  "certifications": [{
+    "certAuthority": "Oracle Inc",
+    "certs" : [{
+        "name": "Oracle Cloud Infrastructure 2024 Generative AI Certified Professional",
+        "ref": "",
+        "url": "",
+        "validationUrl": "", 
+        "awardSerial": "",
+        "startDate": "2024-07",
+        "endDate": "2026-07",
+        "expires": "true"
+    }
+  ],
   "skills": [
     {
       "name": "Languages and Libraries",
@@ -148,12 +161,12 @@
   "volunteer": [
     {
       "organization": "Association of South-Asian A Cappella",
-      "position": "Operations Coordinator",
+      "position": "Assistant Director of Operations",
       "url": "https://desiacappella.org",
       "startDate": "2021-09-15",
       "endDate": "Present",
-      "summary": "Operations Coordinator for the Association of South Asian A Cappella (desiacappella.org), a 501(c)(3) nonprofit organization.",
-      "highlights": ["Implemented digital scoring processes for collegiate South Asian A Cappella competitions using Google Apps Script and Python.", "Developed a custom-tailored ELO-based ranking system for competitive teams to determine national championship qualification.", "Analyzed Scoring Distributions and Judge Feedback Sentiment using Seaborn, Numpy, Pandas, NLTK, spaCy"]
+      "summary": "Assistant Director of Operations for the Association of South Asian A Cappella (desiacappella.org), a 501(c)(3) nonprofit organization.",
+      "highlights": ["Led operations team of six people in building out scoring, audition, and judging processes and applications", "Implemented digital scoring processes for collegiate South Asian A Cappella competitions using Google Apps Script and Python.", "Led Development on a custom-tailored ELO-based ranking system for competitive teams to determine national championship qualification.", "Analyzed Scoring Distributions and Judge Feedback Sentiment using Seaborn, Numpy, Pandas, NLTK, spaCy"]
     }
   ],
   "languages": [
