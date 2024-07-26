@@ -72,21 +72,6 @@
       "score": "GPA: 3.1/4.0"
     }
   ],
-  "certifications": [
-    {
-    "certAuthority": "Oracle Inc",
-    "certs" : [{
-        "name": "Oracle Cloud Infrastructure 2024 Generative AI Certified Professional",
-        "ref": "",
-        "url": "",
-        "validationUrl": "", 
-        "awardSerial": "",
-        "startDate": "2024-07",
-        "endDate": "2026-07",
-        "expires": "true"
-    }]
-    }
-  ],
   "skills": [
     {
       "name": "Languages and Libraries",
