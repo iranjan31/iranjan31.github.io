@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduate with a MS in Data Science from Boston University
+Graduated with a MS in Data Science from Boston University
