@@ -24,11 +24,27 @@
   },
   "work": [
     {
+      "name": "John Hancock",
+      "position": "Data Engineer",
+      "url": "https://www.johnhancock.com/",
+      "startDate": "2024-12-09",
+      "endDate": "Present",
+      "summary": "Working on ETL workflows and AI applications for the personal investing team, focusing on Business Intelligence needs for the organization."
+    },
+    {
+      "name": "Boston University College of Arts and Sciences",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://www.bu.edu/cas/",
+      "startDate": "2024-09-04",
+      "endDate": "2024-12-19",
+      "summary": "Teaching Assistnat for CAS CS 440, Introduction to Artificial Intelligence under Dr. Andrew Wood. Taught two discussion sections a week, assisted students during office hours, graded programming and written assignments, and contributed to solution and autograder code."
+    },
+    {
       "name": "Faculty of Computing and Data Sciences, Boston University",
       "position": "Graduate Researcher",
       "url": "https://www.bu.edu/cds-faculty/",
       "startDate": "2024-05-01",
-      "endDate": "Present",
+      "endDate": "2024-12-19",
       "summary": "Thesis research under Dr. Thomas Gardos. Researching LLM use cases for academic curriculum advising and academic tutoring."
     },
     {
