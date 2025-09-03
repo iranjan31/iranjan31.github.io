@@ -28,8 +28,9 @@
       "position": "Data Engineer",
       "url": "https://www.johnhancock.com/",
       "startDate": "2024-12-09",
-      "endDate": "Present",
-      "summary": "Working on ETL workflows and AI applications for the personal investing team, focusing on Business Intelligence needs for the organization."
+      "endDate": "2025-08-05",
+      "summary": "As a Data Engineer on Manulife | John Hancock’s Personal Investing platform team, I designed and maintained end-to-end data pipelines supporting Advanced Analytics for the Business Intelligence team, with a focus on 401k to IRA rollovers. My work integrated diverse data sources — including third-party broker data (Morningstar, SS&C, Fidelity), marketing and user engagement data (Marketo, Domo), and AWS-based sales call transcripts — into unified, pipeline-driven workflows. This enabled actionable insights for stakeholders and strengthened decision-making across the platform.",
+      "highlights": ["Delivered actionable insights for the Personal Investing Business Intelligence team by leading development and maintenance of 50+ Python ETL tasks.", "Reduced technical debt and improved system scalability by migrating legacy pipelines to a micro services architecture using FastAPI, Azure Data Factory, Azure Kubernetes, and SQLAlchemy.", "Engineered and deployed a NLTK-based cosine-similarity vector search application on Databricks that scans sales-call transcripts against approved IRA-Rollover scripts, ensuring real-time protocol adherence and cutting compliance-review time."]
     },
     {
       "name": "Boston University College of Arts and Sciences",
