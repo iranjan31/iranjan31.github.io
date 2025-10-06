@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-12-09 07:59:00-0400
+date: 2025-09-08 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Started as a Data Engineer at John Hancock
+Joined CodeRabbit as a Solutions Engineer!
