@@ -23,14 +23,23 @@
     ]
   },
   "work": [
-      {
+    {
+      "name": "Talon",
+      "position": "Senior Software Engineer Engineer",
+      "url": "https://www.talonhealthtech.com/",
+      "startDate": "2026-01-26",
+      "endDate": "Present",
+      "summary": "Leading data integration efforts for Third-Party-Administrator clients, powering Talon's medical price transparency and health plan rewards platform.",
+      "highlights": []
+    },
+    {
       "name": "CodeRabbit",
       "position": "Solutions Engineer",
       "url": "https://www.coderabbit.ai/",
       "startDate": "2025-08-08",
-      "endDate": "Present",
-      "summary": "As a Solutions Engineer at CodeRabbit, I bridge the gap between engineering and pre-sales, enabling customers to unlock the complete potential of the CodeRabbit AI Code Review platform.",
-      "highlights": []
+      "endDate": "2025-10-31",
+      "summary": "Spent a couple months sojourning as a Solutions Engineer at CodeRabbit. Worked with a hyper-growth GTM team and learned the ins-and-outs of a successful organization. Spearheaded field::engineering support for CodeRabbit integration with Azure DevOps, and helped grow ARR by a whole lot month-over-month.",
+      "highlights": ["Partnered with 5 Account Executives to nurture customer relationships and provide technical product expertise, growing ARR by 15% month over month ", "Provided technical support to pre-sales and post-sales customers by responding to product-related technical questions and architecting solutions on customer end."]
     },
     {
       "name": "John Hancock",

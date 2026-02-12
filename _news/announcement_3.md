@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-08 07:59:00-0400
+date: 2026-01-26 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Joined CodeRabbit as a Solutions Engineer!
+Joined Talon as a Senior Software Engineer Engineer!
