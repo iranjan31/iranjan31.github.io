@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Talon as a Senior Software Engineer Engineer!
+Joined Talon as a Senior Software Engineer!
